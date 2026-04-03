@@ -98,12 +98,12 @@ XGBoost achieved better performance in terms of AUC, indicating a stronger abili
 
 ## Bibliography
 
-  - Python Documentation: https://docs.python.org/3/
-  - NumPy Documentation: https://numpy.org/doc/
-  - Matplotlib Documentation: https://matplotlib.org/
-  - Seaborn Documentation: https://seaborn.pydata.org/
-  - Scikit-learn Documentation: https://scikit-learn.org/
-  - XGBoost Documentation: https://xgboost.readthedocs.io/
+    - Python Documentation: https://docs.python.org/3/
+    - NumPy Documentation: https://numpy.org/doc/
+    - Matplotlib Documentation: https://matplotlib.org/
+    - Seaborn Documentation: https://seaborn.pydata.org/
+    - Scikit-learn Documentation: https://scikit-learn.org/
+    - XGBoost Documentation: https://xgboost.readthedocs.io/
 
 ---
 
