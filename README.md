@@ -1,4 +1,4 @@
-# I-love-Python ❤️
+# I love Python ❤️
 Credit Models Homework!
 ---
 
