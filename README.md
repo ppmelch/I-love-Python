@@ -107,15 +107,15 @@ XGBoost achieved better performance in terms of AUC, indicating a stronger abili
 
 ---
 
-## About the Author
-
-This repository was created by **José Armando Melchor Soto**.
-
----
-
 ## Notes
 
 This project demonstrates the application of machine learning techniques to a real-world financial classification problem, highlighting the importance of model evaluation beyond accuracy, especially in imbalanced datasets.
+
+---
+
+## About the Author
+
+This repository was created by **José Armando Melchor Soto**.
 
 ---
 
